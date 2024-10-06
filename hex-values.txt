@@ -1,0 +1,47 @@
+> Theme #1: Nostalgic Desaturaiton
+
+:: Dark Colors
+
+Black    #0D0C0D
+Red      #993241
+Green    #3A8E57
+Yellow   #B8A358
+Blue     #485F97
+Purple   #6C4890
+Aqua     #448C96
+White    #A8ABAB
+
+:: Light Colors
+
+Black    #3E3E3F
+Red      #EB8582
+Green    #B2EA8A
+Yellow   #F6E79B
+Blue     #89BFED
+Purple   #B477DC
+Aqua     #92D7CD
+White    #F5F7EF
+
+> Theme #2: Neohyper
+
+:: Dark Colors
+
+Black   #09090A
+Red     #671717
+Green   #0F6230
+Yellow  #BA9430
+Blue    #264E9D
+Purple  #5A2A97
+Aqua    #0D5864
+White   #7E8888
+
+:: Light Colors
+
+Black  #31313A
+Red    #A63A3E
+Green  #3D983C
+Yellow #F4E453
+Blue   #3A93E4
+Purple #AC4ED5
+Aqua   #1FAA89
+White  #F1F8DC
