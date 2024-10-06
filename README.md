@@ -2,14 +2,14 @@
 ive made a few color themes and i figured if nothing else this is a nice place to store them, or, maybe for somebody else to enjoy :3
 
 
-<h2>theme 1: nostalgic desaturation</h2>
+<h3>theme 1: nostalgic desaturation</h3>
 <br>
 <br>
 
 ![image](https://i.imgur.com/oBVpSYl.png)
 
 <br>
-<h2></h2>theme 2: neohyper</h2>
+<h3>theme 2: neohyper</h3>
 <br>
 <br>
 
