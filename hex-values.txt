@@ -45,3 +45,27 @@ Blue   #3A93E4
 Purple #AC4ED5
 Aqua   #1FAA89
 White  #F1F8DC
+
+> Theme #3: Glory
+
+:: Dark Colors
+
+Black   #1D1D20
+Red     #772E2E
+Green   #36855B
+Yellow  #B19859
+Blue    #3F719F
+Purple  #5E467C
+Aqua    #3D6F75
+White   #909A9A
+
+:: Light Colors
+
+Black   #54545E
+Red     #C13E43
+Green   #5DD55B
+Yellow  #F3E66E
+Blue    #5FABF1
+Purple  #A965D5
+Aqua    #34B6A6
+White   #F5F9E7
